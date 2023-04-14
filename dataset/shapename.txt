@@ -1,0 +1,15 @@
+bed
+bench
+bottle
+bowl
+car
+chair
+cone
+cup
+lamp
+monitor
+sofa
+stool
+table
+toilet
+vase
