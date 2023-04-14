@@ -1,0 +1,13 @@
+X. Pang, F. Li, N. Ding and X. Zhong, "Upright-Net: Learning Upright Orientation for 3D Point Cloud," 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, LA, USA, 2022, pp. 14891-14899, doi: 10.1109/CVPR52688.2022.01449.
+
+------------------------------------------------------------------------------------------------------
+
+@INPROCEEDINGS{9878573,
+  author={Pang, Xufang and Li, Feng and Ding, Ning and Zhong, Xiaopin},
+  booktitle={2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, 
+  title={Upright-Net: Learning Upright Orientation for 3D Point Cloud}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={14891-14899},
+  doi={10.1109/CVPR52688.2022.01449}}
