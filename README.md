@@ -28,4 +28,4 @@ This file provides code to rotate point clouds and generates its corresponding r
 3. noise.m
 This file provides code for adding gaussian noise with parameters mu and sigma, for example, input rotation_test.npy, it output rotation_test_noise.npy, with the size of 37000*2048*3. 
 
-PS: the source code will be released on GitHub in near future, see the link https://github.com/XufangPANG/UprightNet-CVPR2022 
+ 
