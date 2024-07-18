@@ -3,7 +3,7 @@ Upright-Net: Learning Upright Orientation for 3D Point Cloud (CVPR2022) Code and
 
 This repo contains the dataset and model for the paper Upright-Net: Learning Upright Orientation for 3D Point Cloud by Xufang PANG Feng LI et al.  
 
-! The source code has been released on Gitlab, see the link  (https://gitlab.com/open-source7452523/uprightnet)  
+* The source code has been released on Gitlab, see the link  (https://gitlab.com/open-source7452523/uprightnet)  
 
 Dataset - UprightNet15 
 
